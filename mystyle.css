@@ -1,0 +1,9 @@
+.ok {
+  border: 1px solid blue;
+  color: rgb(67, 169, 53);
+  display: flex;
+  flex-direction: row-reverse;
+}
+.ok1 {
+  /*border: 1px solid blue;*/
+}
